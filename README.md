@@ -1,2 +1,2 @@
 # CS356Labs25
-Labs for CS356 FA25
+Store labs for CS356
